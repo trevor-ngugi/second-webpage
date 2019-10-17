@@ -1,11 +1,12 @@
 h1 {
-    color: blue;
+    color: rgba(255, 230, 0, 0.788);
     text-align: center;
   }
   h2 {
-    color: green;
+    color:pink  ;
     font-style: italic;
     text-align: center;
+    background-color: aqua;
   }
   p {
     font-family: sans-serif;
@@ -13,3 +14,4 @@ h1 {
   ul {
     line-height: 40px;
   }
+  
